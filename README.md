@@ -13,7 +13,7 @@
 ## 📁 笔记索引
 
 ### STM32 实战记录
-- [按键点灯：第一次调通GPIO输入](链接替换为你的Issue链接)
+- [编码器接口测速](https://github.com/cherish-LR/embedded-learning-notes/issues/1)
 - [ADC采集电位器电压：分辨率与参考电压理解](链接)
 - [DMA双缓冲区：解决数据覆盖问题](链接)（等你写了再补）
 
