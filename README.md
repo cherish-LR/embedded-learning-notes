@@ -23,7 +23,7 @@
 
 ## 🛠️ 技术栈
 - **语言**：C / C++（蓝桥杯国赛水平,参加过ICPC西安站省赛）
-- **MCU**：STM32F103（HAL库）
+- **MCU**：STM32F103（标准库）
 - **RTOS**：FreeRTOS（学习中）
 - **工具**：Keil uVision, CubeMX, GitHub
 
